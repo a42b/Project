@@ -4,6 +4,6 @@ This project is a Spotify playlist generator created for learning purposes. The 
 
 XMLHttpRequest is employed for making XML HTTP requests to the Spotify API, enabling user authorization and accessing user information.
 
-Fetch API is used for performing track searches and adding tracks to the created playlist. It provides a more modern and streamlined approach for making HTTP requests.
+Fetch API is used for performing track searches and adding tracks to the created playlist. 
 
 To find the best matching track to a name playlist generator uses an algorithm inspired by the Levenshtein algorithm to calculate the similarity between the search input and track names. It takes into account factors such as length difference, word match, and Levenshtein distance. In some cases it's not always finding the track with the exact same name so far.
