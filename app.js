@@ -2,8 +2,8 @@
 
 const REDIRECT_URI = 'http://127.0.0.1:5500/index.html';
 
-const CLIENT_ID = '61919dafa042476c900c82e04b740b27';
-const CLIENT_SECRET = '932ff463edc441458dcd93230bd788df';
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
 let access_token = '';
 let refresh_token = '';
 
